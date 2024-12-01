@@ -1,0 +1,98 @@
+[
+    {
+        "id": 0,
+        "image": "/images/projects/country.png",
+        "title": "API de países",
+        "description": "Um site para busca de paises e suas bandeiras.",
+        "role": "frontend",
+        "technologies": ["React", "Typescript", "Styled components"],
+        "link": {
+            "github": "https://github.com/yGustavo-leao/rest-countries-api-with-color-theme-switcher",
+            "live": "https://rest-countries-api-with-color-theme-wvlf.onrender.com"
+        }
+    },
+    {
+        "id": 1,
+        "image": "/images/projects/movie.png",
+        "title": "API de filmes",
+        "description": "Site para busca de filmes.",
+        "role": "fullstack",
+        "technologies": ["React", "Typescript", "Styled components"],
+        "link": {
+            "github": "https://github.com/yGustavo-leao/open-move-database-frontend",
+            "live": "https://open-move-database-frontend.onrender.com/"
+        }
+    },
+    {
+        "id": 2,
+        "image": "/images/projects/todolist.png",
+        "title": "Todo list",
+        "description": "Lista de tarefas.",
+        "role": "fullstack",
+        "technologies": ["Next.js", "Typescript", "Styled components"],
+        "link": {
+            "github": "https://github.com/yGustavo-leao/todo-app-main",
+            "live": "https://todo-app-main-y3v1.onrender.com/"
+        }
+    },
+    {
+        "id": 3,
+        "image": "/images/projects/cep.png",
+        "title": "Consultor de CEP",
+        "description": "Site para consulta de CEPs.",
+        "role": "frontend",
+        "technologies": ["React", "Typescript", "Styled components"],
+        "link": {
+            "github": "https://github.com/yGustavo-leao/consultor-de-cep",
+            "live": "https://ygustavo-leao.github.io/consultor-de-cep/"
+        }
+    },
+    {
+        "id": 4,
+        "image": "/images/projects/huddle.png",
+        "title": "Site estático (huddle)",
+        "description": "Passado do design (frontendmentor) para o html.",
+        "role": "frontend",
+        "technologies": ["React", "Typescript", "Styled components"],
+        "link": {
+            "github": "https://github.com/yGustavo-leao/huddle-landing-page",
+            "live": "https://ygustavo-leao.github.io/huddle-landing-page/"
+        }
+    },
+    {
+        "id": 5,
+        "image": "/images/projects/base.png",
+        "title": "Site estático (base apparel)",
+        "description": "Passado do design (frontendmentor) para o html.",
+        "role": "frontend",
+        "technologies": ["React", "Typescript", "Styled components"],
+        "link": {
+            "github": "https://github.com/yGustavo-leao/base-apparel-coming-soon-page",
+            "live": "https://ygustavo-leao.github.io/base-apparel-coming-soon-page/"
+        }
+    },
+    {
+        "id": 6,
+        "image": "/images/projects/intro.png",
+        "title": "Site estático (intro with form)",
+        "description": "Passado do design (frontendmentor) para o html.",
+        "role": "frontend",
+        "technologies": ["React", "Typescript", "Styled components"],
+        "link": {
+            "github": "https://github.com/yGustavo-leao/intro-component-with-signup-form",
+            "live": "https://ygustavo-leao.github.io/intro-component-with-signup-form/"
+        }
+    },
+    {
+        "id": 7,
+        "image": "/images/projects/ping.png",
+        "title": "Site estático (ping)",
+        "description": "Passado do design (frontendmentor) para o html.",
+        "role": "frontend",
+        "technologies": ["React", "Typescript", "Styled components"],
+        "link": {
+            "github": "https://github.com/yGustavo-leao/intro-component-with-signup-form",
+            "live": "https://ygustavo-leao.github.io/intro-component-with-signup-form/"
+        }
+    }
+]
