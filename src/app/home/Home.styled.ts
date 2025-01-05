@@ -147,6 +147,10 @@ export const PageLink = styled.a`
     text-decoration: none;
     cursor: pointer;
     color: ${({ theme }) => theme.colors.text};
+
+    &:last-child {
+        margin-left: auto;
+    }
 `
 
 export const ShowSiteIcon = styled(Image)`

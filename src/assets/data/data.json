@@ -17,10 +17,10 @@
         "title": "API de filmes",
         "description": "Site para busca de filmes.",
         "role": "fullstack",
-        "technologies": ["React", "Typescript", "Styled components"],
+        "technologies": ["Next.js", "Typescript", "Styled components"],
         "link": {
-            "github": "https://github.com/yGustavo-leao/open-move-database-frontend",
-            "live": "https://open-move-database-frontend.onrender.com/"
+            "github": "",
+            "live": "https://open-move-database.vercel.app/"
         }
     },
     {

@@ -44,9 +44,14 @@ export default function Home() {
               <CardDescription>{current.description}</CardDescription>
 
               <CardFooter>
-                <PageLink href={current.link.github} target="_blank">
-                  <GithubIcon src="/images/icons/github.svg" width={30} height={30} alt="Ícone do Github" />
-                </PageLink>
+                {
+                  current.link.github ?
+                    (
+                    <PageLink href={current.link.github} target="_blank">
+                      <GithubIcon src="/images/icons/github.svg" width={30} height={30} alt="Ícone do Github" />
+                    </PageLink>
+                    ) : null
+                }
 
                 <PageLink href={current.link.live} target="_blank">
                   Ver site
