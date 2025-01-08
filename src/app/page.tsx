@@ -15,9 +15,9 @@ export default function Home() {
     <Container>
       <Introduction id="sobre-mim">
         <IntroductionContainer>
-          <Title>Olá meu chamo <Highlight>Gustavo leão</Highlight>, sou desenvolvedor <Highlight>fullstack</Highlight>!</Title>
+          <Title>Olá me chamo <Highlight>Gustavo leão</Highlight>, sou desenvolvedor <Highlight>fullstack</Highlight>!</Title>
           <Info>
-            Atualmente desenvolvendo com <Highlight>React</Highlight>, <Highlight>Next.js</Highlight>, <Highlight>Styled components</Highlight> e <Highlight>Typescript</Highlight>. Quando não estou codando, gosto de explorar design gráfico e aprender novas tecnologias.
+            Atualmente desenvolvendo com <Highlight>Next.js</Highlight>, <Highlight>React</Highlight>, <Highlight>Styled components</Highlight> e <Highlight>Typescript</Highlight>. Quando não estou codando, gosto de explorar design gráfico e aprender novas tecnologias.
           </Info>
 
           <Technologies>
