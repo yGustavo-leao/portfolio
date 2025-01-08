@@ -9,7 +9,7 @@ export default function Home() {
   const [projects, setProjects] = useState<DataType[]>([]);
 
   useEffect(() => {
-    setProjects(data)
+    setProjects(data.reverse())
   }, [])
   return (
     <Container>
@@ -47,9 +47,9 @@ export default function Home() {
                 {
                   current.link.github ?
                     (
-                    <PageLink href={current.link.github} target="_blank">
-                      <GithubIcon src="/images/icons/github.svg" width={30} height={30} alt="Ícone do Github" />
-                    </PageLink>
+                      <PageLink href={current.link.github} target="_blank">
+                        <GithubIcon src="/images/icons/github.svg" width={30} height={30} alt="Ícone do Github" />
+                      </PageLink>
                     ) : null
                 }
 

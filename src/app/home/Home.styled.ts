@@ -161,10 +161,12 @@ export const Footer = styled.footer`
     bottom: 0;
     left: 0;
     right: 0;
-    display: flex;
-    justify-content: center;
-    column-gap: 1rem;
     padding: 1rem;
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: center;
+    align-items: center;
+    column-gap: 2rem;
     backdrop-filter: blur(10px);
     background-color: ${({ theme }) => theme.colors.element};
 `
