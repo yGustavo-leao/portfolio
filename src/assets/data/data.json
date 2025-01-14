@@ -92,7 +92,7 @@
         "technologies": ["React", "Typescript", "Styled components"],
         "link": {
             "github": "https://github.com/yGustavo-leao/rest-countries-api-with-color-theme-switcher",
-            "live": "https://rest-countries-api-with-color-theme-wvlf.onrender.com"
+            "live": "https://rest-countries-api-with-color-theme-switcher-lilac.vercel.app/"
         }
     },
     {
